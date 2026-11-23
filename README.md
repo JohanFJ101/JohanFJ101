@@ -10,6 +10,12 @@ Open to **Summer 2027 software engineering internships**.
 
 ## Building
 
+### [NoughtLabs](https://www.noughtlabs.si/) · Nascent
+
+I work on Nascent, a client review tool for interior designers. Designers share renders, clients mark up requested changes, and both can keep track of feedback and approvals. Optional AI previews help clients see what a change might look like before the designer revises the render.
+
+`React` `TypeScript` `Vite` `Express` `Supabase`
+
 ### [Ksana](https://ksana.co.in)
 
 I built a cashless event operations platform for concerts, covering wristband credits, payments, and separate tools for attendees, staff, and admins. I implemented signed sessions and role-based access, and added automated API and OpenAPI contract tests. It’s currently in development and being tested at small venues. The client code is private.
@@ -27,12 +33,6 @@ I built a cashless event operations platform for concerts, covering wristband cr
 I built the ASU club’s site and an authenticated content editor so officers can publish event updates without editing code. I also support the club’s event tech and participant communications. [Source code](https://github.com/JohanFJ101/Svwebsite)
 
 `React` `TypeScript` `Vite` `Vercel`
-
-### [NoughtLabs](https://www.noughtlabs.si/) · Nascent
-
-I work on Nascent, a client review tool for interior designers. Designers share renders, clients mark up requested changes, and both can keep track of feedback and approvals. Optional AI previews help clients see what a change might look like before the designer revises the render.
-
-`React` `TypeScript` `Vite` `Express` `Supabase`
 
 ## Security and systems
 
