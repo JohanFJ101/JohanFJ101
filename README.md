@@ -28,11 +28,11 @@ I built the ASU club’s site and an authenticated content editor so officers ca
 
 `React` `TypeScript` `Vite` `Vercel`
 
-### [DispatchIQ](https://github.com/JohanFJ101/dispatchiq)
+### [NoughtLabs](https://www.noughtlabs.si/) · Nascent
 
-A fleet dispatch dashboard that syncs drivers, vehicles, and loads with NavPro. The route and cost copilot runs locally with Ollama.
+I work on Nascent, a client review tool for interior designers. Designers share renders, clients mark up requested changes, and both can keep track of feedback and approvals. Optional AI previews help clients see what a change might look like before the designer revises the render.
 
-`React` `TypeScript` `Zustand` `Leaflet` `Ollama`
+`React` `TypeScript` `Vite` `Express` `Supabase`
 
 ## Security and systems
 
